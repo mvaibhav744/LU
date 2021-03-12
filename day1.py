@@ -1,4 +1,4 @@
-###### QUESTION 1 ########
+###### QUESTION 1 #######
 X=input("Enter the first number  ")
 Y=input("Enter the second number  ")
 print("division=", (float(X/Y)) ,"multiplication=", X*Y ,"sub=", X-Y ,"add=", X+Y)
